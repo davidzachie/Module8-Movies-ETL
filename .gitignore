@@ -1,3 +1,11 @@
+# Add files to ignore
+ratings.csv
+movies_metadata.csv
+Wikipedia-movies.json
+config.py
+.ipynb_checkpoints/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
