@@ -1,7 +1,5 @@
 # Add files to ignore
 ratings.csv
-movies_metadata.csv
-Wikipedia-movies.json
 config.py
 config-Copy1.py
 .ipynb_checkpoints/
